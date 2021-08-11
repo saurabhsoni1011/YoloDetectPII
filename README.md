@@ -1,0 +1,1 @@
+This Project is build  to detect PII in image. First, I collected all the pan card images from web and after that I labeled PII information in those images using labelImg tool and then used YOLOv3 to detect PII in images and then obfuscated that information.
